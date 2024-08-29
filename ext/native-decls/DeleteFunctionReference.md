@@ -1,14 +1,12 @@
----
-ns: CFX
-apiset: shared
----
-## DELETE_FUNCTION_REFERENCE
-
-```c
-void DELETE_FUNCTION_REFERENCE(char* referenceIdentity);
-```
-
-
-## Parameters
-* **referenceIdentity**: 
-
+/carry
+/smack
+/reload
+/argu
+/use
+/smoke
+/flip off
+/hand in air
+/get on ground
+/angy 
+/scream
+/dance
